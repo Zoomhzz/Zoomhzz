@@ -26,11 +26,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rodrigo-costa-139234353)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rodrigocostas147@gmail.com)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo Costa&layout=compact&langs_count=7&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo Costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</p>
