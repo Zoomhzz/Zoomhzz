@@ -1,4 +1,4 @@
-# 🤝 Olá, sou [Rodrigo] e bem-vindo(a) ao meu perfil! 🤝
+# 🤝 Olá, sou Rodrigo e bem-vindo(a) ao meu perfil! 🤝
 
 > 🎓 **Estudante de Tecnologia no SENAI Dendezeiros**
 > 📍 Salvador - BA | 👨‍💻 Desenvolvendo habilidades e construindo projetos
