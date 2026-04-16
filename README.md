@@ -1,6 +1,6 @@
 # 🤝 Olá, sou Rodrigo e bem-vindo(a) ao meu perfil! 🤝
 
-> 🎓 **Estudante de Tecnologia no SENAI Dendezeiros**
+> 🎓 **Estudante de Desenvolvimento de sistemas no SENAI Dendezeiros**
 > 📍 Salvador - BA | 👨‍💻 Desenvolvendo habilidades e construindo projetos
 
 ---
