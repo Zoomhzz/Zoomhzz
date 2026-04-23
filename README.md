@@ -16,7 +16,7 @@
 ### 📂 Projetos
 
 * ⛽ [Posto De Gasolina](https://github.com/Zoomhzz/Posto-de-gasolina) - Sistema modular em Python para gestão de postos de combustíveis.
-* 📊 [Enterprise Core Api]((https://github.com/Zoomhzz/enterprise-core-api)) - API REST em Spring Boot para gerenciamento de funcionários e produtos.
+* 📊 [Enterprise Core Api]([(https://github.com/Zoomhzz/enterprise-core-api)]) - API REST em Spring Boot para gerenciamento de funcionários e produtos.
 * 💻 [Logistics Management Api]((https://github.com/Zoomhzz/logistics-management-api)) - Gerenciamento de dados corporativos, focando em simplicidade, organização de código
 
 ---
